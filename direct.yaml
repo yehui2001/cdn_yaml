@@ -4,3 +4,4 @@ payload:
   - 'DOMAIN-SUFFIX,dmx.upc.ubisoft.com,DIRECT'
   - 'DOMAIN-SUFFIX,connect.cdn.ubionline.com.cn,DIRECT'
   - 'DOMAIN-SUFFIX,ubiservices.ubi.com,DIRECT'
+  - 'DOMAIN-SUFFIX,youtube.com,DIRECT'
